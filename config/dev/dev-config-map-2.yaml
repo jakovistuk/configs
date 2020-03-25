@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  key1: dev-config-map-2-value1
+  key2: dev-config-map-2-value2
+kind: ConfigMap
+metadata:
+  name: dev-config-map-2
